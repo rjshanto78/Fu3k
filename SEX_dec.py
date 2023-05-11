@@ -321,7 +321,7 @@ def menu():
                         elif xd in ['7','07']:
                                 os.system('xdg-open https://mediafire.com/file/y1wvgc2zqqunxbn/AKING_VPN1.0.apk/file');menu()
                         elif xd in ['8','08']:
-                                #os.system('xdg-open https://www.facebook.com/groups/367443570366706/?ref=share');menu()
+                                os.system('xdg-open https://www.facebook.com/groups/367443570366706/?ref=share');menu()
                         elif xd in ['0','00']:
                                 exit(' Thanks for use 🥰 ')
                         else:
